@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ayush Kumar Rai
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development and Java
-- 💞️ Learnt Python
+- 👋 Hi, I’m Ayush Kumar Rai.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Java and its DSA.
+- 💞️ Learnt Web Development & Python.
 - 📫 Reach me at - raiayush913@gmail.com
 
 <!---
